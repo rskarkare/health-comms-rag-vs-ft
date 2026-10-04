@@ -5,3 +5,7 @@ peft
 accelerate
 sentence-transformers
 faiss-cpu
+rouge-score
+textstat
+rouge-score
+textstat
